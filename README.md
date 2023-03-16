@@ -1,5 +1,5 @@
 
-# Painting with AI
+# Painting with AI 
 
 Final project for the Building AI course
 
